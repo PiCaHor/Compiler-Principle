@@ -69,3 +69,11 @@
 完成本地所有的测例，正在调试评测姬TT_TT
 
 ![c](F:\Code\Compiler-Principle\lab3\c.png)
+
+2023.6.2
+
+评测机问题解决，主要是llvm版本更新导致的常量更新和create函数Align的创建无法实现
+
+最终结果目前是24%的性能，效果还不错，同时还为添加相关的代码优化
+
+![d](F:\Code\Compiler-Principle\lab3\d.png)
